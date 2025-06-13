@@ -208,8 +208,8 @@ Check out my [FAQ Page](https://www.justagwas.com/faq) for more answers and deta
 - [x] ffmpeg Check Fix.
 - [x] UI Animations.
 - [x] Icon Update.
-- [ ] Packaged for PR.
-- [ ] Released.
+- [x] Packaged for PR.
+- [x] Released.
 
 ---
 

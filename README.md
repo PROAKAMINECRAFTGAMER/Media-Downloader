@@ -1,4 +1,4 @@
-# Media Downloader/Converter v1.1.1
+# Media Downloader/Converter v1.2.0
 
 [![Download Media_Downloader_Setup.exe](https://img.shields.io/badge/▼%20Download_▼-Media_Downloader_Setup.exe-blue?style=for-the-badge)](https://github.com/Justagwas/Media-Downloader/releases/latest/download/Media_Downloader_Setup.exe)
 
@@ -76,7 +76,7 @@ Using the installer is essential as it automatically adds the application to the
 1. **Download**  
    Clone or download the repository as a ZIP file from the latest release:
    
-   [![Download Latest Release Media_Downloader.zip](https://img.shields.io/badge/▼%20Download_Latest_Release%20▼-Source_Code.zip%20-blue?style=for-the-badge)](https://github.com/Justagwas/Media-Downloader/archive/refs/tags/v1.1.1.zip)
+   [![Download Latest Release Media_Downloader.zip](https://img.shields.io/badge/▼%20Download_Latest_Release%20▼-Source_Code.zip%20-blue?style=for-the-badge)](https://github.com/Justagwas/Media-Downloader/archive/refs/tags/v1.2.0.zip)
 
 3. **Install Dependencies**  
    Ensure Python is installed on your system. Then, install the required libraries using the following command:
@@ -149,7 +149,7 @@ You can uninstall the program by navigating to your Windows Settings.
 If you are unable to find the program within Windows Settings, follow this guide below.
   
   1. Press Win + R.  
-  2. In the pop-up type `C:\Program Files` and press enter (DEFAULT INSTALLATION IS `C:\Program Files` UNLESS YOU'VE CHANGED THIS).  
+  2. In the pop-up type `%localappdata%\Programs` and press enter (DEFAULT INSTALLATION IS `%localappdata%\Programs` UNLESS YOU'VE CHANGED THIS).  
   3. Locate the folder named "Media Downloader".  
   4. Open the folder.
   5. Within the folder find a file named `unins000.exe`.
@@ -201,9 +201,13 @@ Check out my [FAQ Page](https://www.justagwas.com/faq) for more answers and deta
 - [x] Packaged for PR.
 - [x] Released.
 
-### Version 1.1.2
+### Version 1.2.0
 
-- [ ] CMD Console Fix.
+- [x] CMD Console Fix.
+- [x] UI Remake.
+- [x] ffmpeg Check Fix.
+- [x] UI Animations.
+- [x] Icon Update.
 - [ ] Packaged for PR.
 - [ ] Released.
 

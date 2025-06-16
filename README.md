@@ -1,4 +1,4 @@
-# This repo is deprecated, please use [Universal Media Downloader](https://github.com/Justagwas/UMD), Which is a better version of this.
+# This repo is deprecated, please use [Universal Media Downloader](https://github.com/Justagwas/UMD), which is a better version of this.
 
 # Media Downloader/Converter v1.2.0
 

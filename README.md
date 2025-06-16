@@ -1,3 +1,5 @@
+# This repo is deprecated, please use [Universal Media Downloader](https://github.com/Justagwas/UMD), Which is a better version of this.
+
 # Media Downloader/Converter v1.2.0
 
 [![Download Media_Downloader_Setup.exe](https://img.shields.io/badge/▼%20Download_▼-Media_Downloader_Setup.exe-blue?style=for-the-badge)](https://github.com/Justagwas/Media-Downloader/releases/latest/download/Media_Downloader_Setup.exe)
